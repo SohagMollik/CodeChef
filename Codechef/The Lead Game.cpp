@@ -1,42 +1,48 @@
 #include<bits/stdc++.h>
+#define ll    long long
+#define pb    push_back
+#define ull   unsigned long long
+#define f     first
+#define s     second
+#define mod   1000000007
+#define pi    acos(-1.0)
+#define fast  ios_base::sync_with_stdio(false);cin.tie(NULL);cout.tie(NULL);
 using namespace std;
 int main()
 {
-    int t;
-    cin>>t;
-    int n=t;
-    int a,b,sub1,sub2,mx1,i=0,l=0,m=0,j;
-    int ar[n],c[n],d[n];
-    while(t--){
-        cin>>a>>b;
-        if(a>b){
-           sub1=a-b;
-           ar[i++]=sub1;
-        c[l++]=sub1;
+    fast;
+    int n;
+    cin>>n;
+    int a[2*n];
+    vector<int>ok,ans,temp,vis;
+    for(int i=0;i<2*n;i++){
+        cin>>a[i];
+    }
+    int x=0;
+    int y=0;
+    for(int i=0;i<2*n;i+=2){
+        x+=a[i];
+        ok.pb(x);
+    }
+      for(int i=1;i<2*n;i+=2){
+        y+=a[i];
+        ans.pb(y);
+    }
+    for(int i=0;i<ok.size();i++){
+        if(ok[i]>ans[i]){
+            int sub=ok[i]-ans[i];
+            temp.pb(sub);
+            vis.pb(1);
         }
         else{
-           sub2=b-a;
-           ar[i++]=sub2;
-           d[m++]=sub2;
+            int sub=ans[i]-ok[i];
+            temp.pb(sub);
+            vis.pb(2);
         }
+    }
+    int mx=*max_element(temp.begin(),temp.end());
+    int index=max_element(temp.begin(),temp.end())-temp.begin();
+    cout<<vis[index]<<" "<<mx<<endl;
 
-        }
-        mx1=ar[0];
-        for(int k=0;k<n;k++){
-            if(ar[k]>=mx1)mx1=ar[k];
-        }
-         int c_size=sizeof(c)/sizeof(c[0]);
-         int d_size=sizeof(d)/sizeof(d[0]);
-        for(int x=0;x<c_size;x++){
-            if(mx1==c[x])j=1;
-        }
-        for(int x=0;x<d_size;x++){
-            if(mx1==d[x])j=2;
-        }
-
-      if(j==1)
-        cout<<1<<" "<<mx1<<endl;
-     else
-        cout<<2<<" "<<mx1<<endl;
-
+    return 0;
 }
