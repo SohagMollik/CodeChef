@@ -1,5 +1,5 @@
 # CodeChef-Online-Judge-Problem & Solution
-- Begineer Problem
+## - Begineer Problem
 | Problem | Solution |
 | ------- | -------- |
 | [ATM](https://www.codechef.com/problems/HS08TEST) | [ATM.cpp](https://github.com/SohagMollik/CodeChef-Online-Judge-Solution/blob/main/Codechef/ATM.cpp) |
