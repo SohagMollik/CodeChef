@@ -39,3 +39,5 @@
 | [Turbo Sort](https://www.codechef.com/problems/TSORT) | [Turbo Sort.cpp](https://github.com/SohagMollik/CodeChef-Online-Judge-Solution/blob/main/Codechef/Turbo%20Sort.cpp) |
 | [Two vs Ten](https://www.codechef.com/problems/TWOVSTEN) | [Two vs Ten.cpp](https://github.com/SohagMollik/CodeChef-Online-Judge-Solution/blob/main/Codechef/Two%20vs%20Ten.cpp) |
 | [Valid Triangles](https://www.codechef.com/problems/FLOW013) | [Valid Triangles.cpp](https://github.com/SohagMollik/CodeChef-Online-Judge-Solution/blob/main/Codechef/Valid%20Triangles.cpp) |
+| [Average of Three](https://www.codechef.com/START23C/problems/AVGOF3) | [Average of Three.cpp](https://github.com/SohagMollik/CodeChef-Online-Judge-Solution/blob/main/Codechef/Average%20of%20Three.cpp) |
+| [Chef and Profits](https://www.codechef.com/START23C/problems/CHFPROFIT) | [Chef and Profits.cpp](https://github.com/SohagMollik/CodeChef-Online-Judge-Solution/blob/main/Codechef/Chef%20and%20Profits.cpp) |
