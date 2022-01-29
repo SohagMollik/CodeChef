@@ -1,5 +1,5 @@
 # CodeChef-Online-Judge-Problem & Solution
-## - Begineer Problem
+
 | Problem | Solution |
 | ------- | -------- |
 | [ATM](https://www.codechef.com/problems/HS08TEST) | [ATM.cpp](https://github.com/SohagMollik/CodeChef-Online-Judge-Solution/blob/main/Codechef/ATM.cpp) |
@@ -41,3 +41,5 @@
 | [Valid Triangles](https://www.codechef.com/problems/FLOW013) | [Valid Triangles.cpp](https://github.com/SohagMollik/CodeChef-Online-Judge-Solution/blob/main/Codechef/Valid%20Triangles.cpp) |
 | [Average of Three](https://www.codechef.com/START23C/problems/AVGOF3) | [Average of Three.cpp](https://github.com/SohagMollik/CodeChef-Online-Judge-Solution/blob/main/Codechef/Average%20of%20Three.cpp) |
 | [Chef and Profits](https://www.codechef.com/START23C/problems/CHFPROFIT) | [Chef and Profits.cpp](https://github.com/SohagMollik/CodeChef-Online-Judge-Solution/blob/main/Codechef/Chef%20and%20Profits.cpp) |
+| [Chef and Lockout Draws](https://www.codechef.com/LTIME104C/problems/LOCKDRAW) | [Chef and Lockout Draws.cpp](https://github.com/SohagMollik/CodeChef-Online-Judge-Solution/blob/main/Codechef/Chef%20and%20Lockout%20Draws.cpp) |
+| [Chef and Subset Additions](https://www.codechef.com/LTIME104C/problems/SUBSTADD) | [Chef and Subset Additions.cpp](https://github.com/SohagMollik/CodeChef-Online-Judge-Solution/blob/main/Codechef/Chef%20and%20Subset%20Additions.cpp) |
