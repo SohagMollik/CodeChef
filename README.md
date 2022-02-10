@@ -43,3 +43,7 @@
 | [Chef and Profits](https://www.codechef.com/START23C/problems/CHFPROFIT) | [Chef and Profits.cpp](https://github.com/SohagMollik/CodeChef-Online-Judge-Solution/blob/main/Codechef/Chef%20and%20Profits.cpp) |
 | [Chef and Lockout Draws](https://www.codechef.com/LTIME104C/problems/LOCKDRAW) | [Chef and Lockout Draws.cpp](https://github.com/SohagMollik/CodeChef-Online-Judge-Solution/blob/main/Codechef/Chef%20and%20Lockout%20Draws.cpp) |
 | [Chef and Subset Additions](https://www.codechef.com/LTIME104C/problems/SUBSTADD) | [Chef and Subset Additions.cpp](https://github.com/SohagMollik/CodeChef-Online-Judge-Solution/blob/main/Codechef/Chef%20and%20Subset%20Additions.cpp) |
+| [Chef and His Fruit Stand](https://www.codechef.com/START25C/problems/FRUITCHAAT) | [Chef and His Fruit Stand.cpp](https://github.com/SohagMollik/CodeChef-Online-Judge-Solution/blob/main/Codechef/Chef%20and%20His%20Fruit%20Stand.cpp) |
+| [Chef and the Hair Salon](https://www.codechef.com/FEB221C/problems/CHEFBARBER) | [Chef and the Hair Salon.cpp](https://github.com/SohagMollik/CodeChef-Online-Judge-Solution/blob/main/Codechef/Chef%20and%20the%20Hair%20Salon.cpp) |
+| [Fit in Data Type](https://www.codechef.com/START25C/problems/DATATYPE) | [Fit in Data Type.cpp](https://github.com/SohagMollik/CodeChef-Online-Judge-Solution/blob/main/Codechef/Fit%20in%20Data%20Type.cpp) |
+| [Points and Lines](https://www.codechef.com/START25B/problems/POLIN) | [Points and Lines.cpp](https://github.com/SohagMollik/CodeChef-Online-Judge-Solution/blob/main/Codechef/Points%20and%20Lines.cpp) |
