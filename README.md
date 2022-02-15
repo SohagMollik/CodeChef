@@ -47,3 +47,6 @@
 | [Chef and the Hair Salon](https://www.codechef.com/FEB221C/problems/CHEFBARBER) | [Chef and the Hair Salon.cpp](https://github.com/SohagMollik/CodeChef-Online-Judge-Solution/blob/main/Codechef/Chef%20and%20the%20Hair%20Salon.cpp) |
 | [Fit in Data Type](https://www.codechef.com/START25C/problems/DATATYPE) | [Fit in Data Type.cpp](https://github.com/SohagMollik/CodeChef-Online-Judge-Solution/blob/main/Codechef/Fit%20in%20Data%20Type.cpp) |
 | [Points and Lines](https://www.codechef.com/START25B/problems/POLIN) | [Points and Lines.cpp](https://github.com/SohagMollik/CodeChef-Online-Judge-Solution/blob/main/Codechef/Points%20and%20Lines.cpp) |
+| [Avoid Fixed Points](https://www.codechef.com/FEB222C/problems/NOFIX) | [Avoid Fixed Points.cpp](https://github.com/SohagMollik/CodeChef-Online-Judge-Solution/blob/main/Codechef/Avoid%20Fixed%20Points.cpp) |
+| [Chef and NextGen](https://www.codechef.com/FEB222C/problems/HELIUM3) | [Chef and NextGen.cpp](https://github.com/SohagMollik/CodeChef-Online-Judge-Solution/blob/main/Codechef/Chef%20and%20NextGen%20.cpp) |
+| [World Chess Championship](https://www.codechef.com/FEB222C/problems/WCC) | [World Chess Championship.cpp](https://github.com/SohagMollik/CodeChef-Online-Judge-Solution/blob/main/Codechef/World%20Chess%20Championship.cpp) |
