@@ -50,3 +50,24 @@
 | [Avoid Fixed Points](https://www.codechef.com/FEB222C/problems/NOFIX) | [Avoid Fixed Points.cpp](https://github.com/SohagMollik/CodeChef-Online-Judge-Solution/blob/main/Codechef/Avoid%20Fixed%20Points.cpp) |
 | [Chef and NextGen](https://www.codechef.com/FEB222C/problems/HELIUM3) | [Chef and NextGen.cpp](https://github.com/SohagMollik/CodeChef-Online-Judge-Solution/blob/main/Codechef/Chef%20and%20NextGen%20.cpp) |
 | [World Chess Championship](https://www.codechef.com/FEB222C/problems/WCC) | [World Chess Championship.cpp](https://github.com/SohagMollik/CodeChef-Online-Judge-Solution/blob/main/Codechef/World%20Chess%20Championship.cpp) |
+| [Akash and Missing Class](https://www.codechef.com/problems/CHFCLASS) | [Akash and Missing Class.cpp](https://github.com/SohagMollik/CodeChef/blob/main/Codechef/Akash%20and%20Missing%20Class.cpp) |
+| [lice and Marks](https://www.codechef.com/START57D/problems/MARKSTW) | [lice and Marks.cpp](https://github.com/SohagMollik/CodeChef/blob/main/Codechef/Alice%20and%20Marks.cpp) |
+| [Area OR Perimeter](https://www.codechef.com/problems/AREAPERI) | [Area OR Perimeter .cpp](https://github.com/SohagMollik/CodeChef/blob/main/Codechef/Area%20OR%20Perimeter%20.cpp) |
+| [Array Sum](https://www.codechef.com/problems/SUMARRAY) | [Array Sum.cpp](https://github.com/SohagMollik/CodeChef/blob/main/Codechef/Array%20Sum.cpp) |
+| [Audible Range](https://www.codechef.com/START59D/problems/AUDIBLE) | [Audible Range.cpp](https://github.com/SohagMollik/CodeChef/blob/main/Codechef/Audible%20Range.cpp) |
+| [Bath in Winters](https://www.codechef.com/problems/BATH) | [Bath in Winters.cpp](https://github.com/SohagMollik/CodeChef/blob/main/Codechef/Bath%20in%20Winters.cpp) |
+| [Bit Play](https://www.codechef.com/problems/BITPLAY) | [Bit Play.cpp](https://github.com/SohagMollik/CodeChef/blob/main/Codechef/Bit%20Play.cpp) |
+| [Bob at the Bank](https://www.codechef.com/problems/BOBBANK) | [Bob at the Bank.cpp](https://github.com/SohagMollik/CodeChef/blob/main/Codechef/Bob%20at%20the%20Bank.cpp) |
+| [Building Race](https://www.codechef.com/OCT221C/problems/BUILDINGRACE) | [Building Race.cpp](https://github.com/SohagMollik/CodeChef/blob/main/Codechef/Building%20Race.cpp) |
+| [Car Trip](https://www.codechef.com/problems/CARTRIP) | [Car Trip.cpp](https://github.com/SohagMollik/CodeChef/blob/main/Codechef/Car%20Trip.cpp) |
+| [Car or Bus](https://www.codechef.com/problems/TRAVELFAST) | [Car or Bus.cpp](https://github.com/SohagMollik/CodeChef/blob/main/Codechef/Car%20or%20Bus.cpp) |
+| [Card Swipe](https://www.codechef.com/problems/CARDSWIPE) | [Card Swipe.cpp](https://github.com/SohagMollik/CodeChef/blob/main/Codechef/Card%20Swipe.cpp) |
+| [Chef Drinks Tea](https://www.codechef.com/COOK143D/problems/TEA) | [Chef Drinks Tea.cpp](https://github.com/SohagMollik/CodeChef/blob/main/Codechef/Chef%20Drinks%20Tea.cpp) |
+| [Chef and Happy String](https://www.codechef.com/problems/HAPPYSTR) | [Chef and Happy String.cpp](https://github.com/SohagMollik/CodeChef/blob/main/Codechef/Chef%20and%20Happy%20String.cpp) |
+| [Chef and Races](https://www.codechef.com/problems/CHEFRACES) | [Chef and Races.cpp](https://github.com/SohagMollik/CodeChef/blob/main/Codechef/Chef%20and%20Races.cpp) |
+| [Chef and Stocks](https://www.codechef.com/problems/STOCKMARKET) | [Chef and Stocks.cpp](https://github.com/SohagMollik/CodeChef/blob/main/Codechef/Chef%20and%20Stocks.cpp) |
+| [Chef and Wire Frames](https://www.codechef.com/problems/CWIREFRAME) | [Chef and Wire Frames.cpp](https://github.com/SohagMollik/CodeChef/blob/main/Codechef/Chef%20and%20Wire%20Frames.cpp) |
+| [Chocolate Distribution](https://www.codechef.com/problems/CHOCOCHEF) | [Chocolate Distribution.cpp](https://github.com/SohagMollik/CodeChef/blob/main/Codechef/Chocolate%20Distribution.cpp) |
+| [Control the Pollution](https://www.codechef.com/problems/SMOKE) | [Control the Pollution.cpp](https://github.com/SohagMollik/CodeChef/blob/main/Codechef/Control%20the%20Pollution.cpp) |
+| [Count the Notebooks](https://www.codechef.com/START26C/problems-old/NOTEBOOK) | [Count the Notebooks.cpp](https://github.com/SohagMollik/CodeChef/blob/main/Codechef/Count%20the%20Notebooks%20.cpp) |
+| [Counting Problem](https://www.codechef.com/problems/COUNTP) | [Counting Problem.c](https://github.com/SohagMollik/CodeChef/blob/main/Codechef/Counting%20Problem.c) |
